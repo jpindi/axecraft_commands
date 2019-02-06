@@ -1,0 +1,12 @@
+name: Axecraft_commands
+version: ${project.version}
+main: me.axecraft.axecraft_commands.Axecraft_commands
+api-version: 1.13
+authors: [JosephLalonde]
+description: various commands and miscellaneous behaviours
+website: zenbot.ca
+commands:
+  lobby:
+    description: Returns you to the lobby.
+  clear_items:
+    description: Clears the number from your item.
