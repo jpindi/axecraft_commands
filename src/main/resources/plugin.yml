@@ -5,6 +5,7 @@ api-version: 1.13
 authors: [JosephLalonde]
 description: various commands and miscellaneous behaviours
 website: zenbot.ca
+depend: [WorldGuard]
 commands:
   lobby:
     description: Returns you to the lobby.
